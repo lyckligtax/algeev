@@ -3,7 +3,7 @@ ShowBreadCrumbs = false
 [cover]
 image = "./covers/about.jpg"
 +++
-**ALGE** ist ein, seit August 2023, offiziell eingetragener, gemeinnütziger Verein für die **Förderung der Erziehung** und die **Förderung des öffentlichen Gesundheitswesens und der öffentlichen Gesundheitspflege**.
+**ALGEEEEEEEE** ist ein, seit August 2023, offiziell eingetragener, gemeinnütziger Verein für die **Förderung der Erziehung** und die **Förderung des öffentlichen Gesundheitswesens und der öffentlichen Gesundheitspflege**.
 
 Unsere Vereinsaktivitäten sollen helfen, isolierten Familien und Einzelpersonen einen sicheren sozialen Austausch zu ermöglichen und damit das seelische Wohlbefinden zu verbessern. 
 
