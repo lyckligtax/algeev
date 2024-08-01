@@ -1,0 +1,68 @@
+baseURL: https://alge-hamburg.de/
+languageCode: de-DE
+title: ALGE e.V.
+paginate: 10
+theme: PaperMod
+
+outputs:
+  home:
+    - html
+    - rss
+    - json
+  page:
+    - html
+    - rss
+  rss:
+    - rss
+  section:
+    - html
+    - rss
+minify:
+  disableXML: true
+  minifyOutput: true
+menu:
+  main:
+    - identifier: AboutUs
+      name: Über uns
+      url: /about
+      weight: 5
+    - identifier: Termine
+      name: Termine
+      url: /termine/
+      weight: 10
+    - identifier: HelpWanted
+      name: Unterstützung
+      url: /support
+      weight: 15
+    - identifier: contact
+      name: Kontakt
+      url: /contact
+      weight: 20
+params:
+  ShowRssButtonInSectionTermList: true
+  env: production
+  ShowBreadCrumbs: true
+  cover:
+    hiddenInList: true
+  footer:
+    text: '[Impressum](/impressum) · [Datenschutzerklärung](/privacy)'
+  profileMode:
+    enabled: true
+    title: "ALGE e.V."
+    subtitle: "Ein Verein mit Augenmerk auf Teilhabe von Schattenfamilien und Infektionsschutz für alle"
+    imageUrl: "ALGE.png" # optional
+    imageTitle: "ALGE e.V. Logo" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    buttons:
+      - name: Termine
+        url: "/termine"
+      - name: Unterstützung
+        url: "/support"
+  socialIcons:
+    - name: "email"
+      url: "mailto:info@alge-hamburg.de"
+    - name: "whatsapp"
+      url: "https://whatsapp.com/channel/0029VajhFRa6xCSJRBCNxm35"
+    - name: "discord"
+      url: "https://discordapp.com/users/lyckligtax"
