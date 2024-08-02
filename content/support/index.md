@@ -8,14 +8,13 @@ Werde **Mitglied** im Verein und hilf dabei, tolle Online, Outdoor und Indoor Ak
 
 Keine Zeit aktiv mitzuarbeiten, aber du möchtest trotzdem Teil vom Team sein? Werde **Fördermitglied**!
 
-Keine Lust auf aktive Arbeit aber trotzdem Teil vom Team sein? Werde **Fördermitglied**!
-
 Einfach den [Mitgliedsantrag](mitgliedsantrag.pdf) ausfüllen und per Mail an info@alge-hamburg.de schicken.
 
 Weitere Dokumente: 
 - [Unsere Satzung](satzung.pdf)
 - [Die Beitragsordnung](beitragsordnung.pdf)
 - [Die Datenschutzerklärung](datenschutzerklaerung.pdf)
+
 ## Spenden
 Aktivitäten wie eine Weihnachtsfeier, Kinos mieten oder andere Freizeitangebote sind sehr kostspielig und ein gemeinnütziger Verein ist auf Spenden und Mitgliedsbeiträge angewiesen.
 

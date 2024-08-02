@@ -1,5 +1,5 @@
 +++
-title = 'Weihnachtsfeier 2024 🎄🎅🎁'
+title = 'Präsenz-Weihnachtsfeier 2024 🎄🎅🎁'
 date = 2023-07-26T11:57:32+02:00
 weight = 5
 [cover]
@@ -7,7 +7,7 @@ image = "./covers/weihnachtsfeier.jpg"
 caption = "Symbolbild Weihnachtsfeier (KI-generiert)"
 relative = true
 +++
-Moin,
+Moin,  
 der ALGE e.V. möchte dieses Jahr eine möglichst infektionssichere Weihnachtsfeier in Hamburg veranstalten. Viele möchten gerade in der Adventszeit mit anderen zusammenkommen und ein wenig Weihnachtsmarktstimmung erleben. Das wollen wir versuchen zu ermöglichen.
 
 Diese soll beinhalten:
@@ -42,7 +42,7 @@ Unterstütze uns mit einer Spende! Spendenbescheinigung stellen wir natürlich g
 | **BIC**         |                     GENO DEF1 SLR |
 
 ## Infos
-Wir freuen uns über jede*n, die*der helfen oder auch nur teilnehmen möchte. Melde dich für eine unverbindliche Anmeldung per DM bei mir oder per Mail an info@alge-hamburg.de , damit wir jetzt schon gut planen können :-)
+Wir freuen uns über jede\*n, die\*der helfen oder auch nur teilnehmen möchte. Melde dich für eine unverbindliche Anmeldung per DM bei mir oder per Mail an info@alge-hamburg.de, damit wir jetzt schon gut planen können :-)
 
 Weitere Infos sowie die Frist zur verbindlichen Anmeldung folgen in den nächsten Wochen.
 

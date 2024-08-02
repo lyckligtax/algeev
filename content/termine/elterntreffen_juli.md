@@ -1,5 +1,5 @@
 +++
-title = '1. Virtuelles Elterntreffen'
+title = 'Elterntreffen Juli'
 date = 2024-07-05T11:57:32+02:00
 [cover]
 image = "./covers/elterntreff.jpg"
