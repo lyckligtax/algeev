@@ -4,18 +4,22 @@ ShowBreadCrumbs: false
 # Wir brauchen deine Hilfe!
 
 ## Mitgliedschaft
-Werde Mitglied im Verein und hilf dabei tolle online ,outdoor und indoor Aktivitäten zu verwirklichen und bring deine eigenen Ideen sowie know-how ein.
+Werde **Mitglied** im Verein und hilf dabei, tolle Online, Outdoor und Indoor Aktivitäten zu verwirklichen und bring deine eigenen Ideen und Expertise ein.
+
+Keine Zeit aktiv mitzuarbeiten, aber du möchtest trotzdem Teil vom Team sein? Werde **Fördermitglied**!
 
 Keine Lust auf aktive Arbeit aber trotzdem Teil vom Team sein? Werde **Fördermitglied**!
 
-- [Unsere Satzung](satzung.pdf)  
-- [Die Beitragsordnung](beitragsordnung.pdf)  
-- [Die Datenschutzerklärung](datenschutzerklaerung.pdf)  
-
 Einfach den [Mitgliedsantrag](mitgliedsantrag.pdf) ausfüllen und per Mail an info@alge-hamburg.de schicken.
 
+Weitere Dokumente: 
+- [Unsere Satzung](satzung.pdf)
+- [Die Beitragsordnung](beitragsordnung.pdf)
+- [Die Datenschutzerklärung](datenschutzerklaerung.pdf)
 ## Spenden
-Ein Verein kostet viel Geld und bringt keine Einnahmen. Mit Spenden hilfst du uns den Verein am leben zu halten.
+Aktivitäten wie eine Weihnachtsfeier, Kinos mieten oder andere Freizeitangebote sind sehr kostspielig und ein gemeinnütziger Verein ist auf Spenden und Mitgliedsbeiträge angewiesen.
+
+Unterstütze uns mit einer Spende! Spendenbescheinigung stellen wir natürlich gerne aus.
 
 Was machen wir mit dem Geld?
 - Locations anmieten, z.B. Weihnachtsfeier und Spielplätze

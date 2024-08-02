@@ -1,14 +1,12 @@
 +++
-title = '1. Virtueller Elternaustausch'
+title = '1. Virtuelles Elterntreffen'
 date = 2024-07-05T11:57:32+02:00
 [cover]
 image = "./covers/elterntreff.jpg"
-alt = "<alt text>"
-caption = "<text>"
 relative = false
 +++
 Moin,  
-wir möchten alle Menschen mit Kindern zu einem virtuellen Austausch einladen.
+wir möchten alle Menschen mit Kindern zu einem virtuellen Treffen einladen.
 
 Wir freuen uns sehr darüber und möchten euch die folgenden beiden Termine anbieten, um gemeinsam mit euch über eure aktuellen Erfahrungen, über Kita,  Einschulung und Schule zu sprechen und uns gegenseitig zu bestärken.
 
