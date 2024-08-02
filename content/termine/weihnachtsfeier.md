@@ -4,6 +4,7 @@ date = 2023-07-26T11:57:32+02:00
 weight = 5
 [cover]
 image = "./covers/weihnachtsfeier.jpg"
+caption = "Symbolbild Weihnachtsfeier (KI-generiert)"
 relative = true
 +++
 Moin,

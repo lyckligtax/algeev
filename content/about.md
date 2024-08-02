@@ -2,6 +2,7 @@
 ShowBreadCrumbs = false
 [cover]
 image = "./covers/about.jpg"
+caption = "Symbolbild (KI-generiert)"
 +++
 Der **ALGE e.V.** ist ein, seit August 2023, offiziell eingetragener, gemeinnütziger Verein für die *Förderung der Erziehung* und die *Förderung des öffentlichen Gesundheitswesens und der öffentlichen Gesundheitspflege*.
 

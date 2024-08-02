@@ -3,6 +3,7 @@ title = '2. Virtuelles Elterntreffen'
 date = 2024-07-26T11:57:32+02:00
 [cover]
 image = "./covers/elterntreff.jpg"
+caption = "Symbolbild Elterntreffen (KI-generiert)"
 relative = true
 +++
 Moin,
