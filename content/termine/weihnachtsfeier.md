@@ -25,15 +25,15 @@ Dafür benötigen wir allerdings Unterstützung:
 ## Wir brauchen dich
 Aktivitäten wie die Weihnachtsfeier lassen sich nur mit deiner Hilfe umsetzen.
 
-Werde Mitglied im Verein und hilf dabei, tolle Online, Outdoor und Indoor Aktivitäten zu verwirklichen und bring deine eigenen Ideen und Expertise ein.
+Werde [Mitglied](/support#mitgliedschaft) im Verein und hilf dabei, tolle Online, Outdoor und Indoor Aktivitäten zu verwirklichen und bring deine eigenen Ideen und Expertise ein.
 
 Keine Zeit aktiv mitzuarbeiten, aber du möchtest trotzdem Teil vom Team sein?
-Werde Fördermitglied!
+Werde [Fördermitglied](/support#mitgliedschaft)!
 
 ## Spenden
 Aktivitäten wie eine Weihnachtsfeier sind sehr kostspielig und ein gemeinnütziger Verein ist auf Spenden und Mitgliedsbeiträge angewiesen.
 
-Unterstütze uns mit einer Spende! Spendenbescheinigung stellen wir natürlich gerne aus.
+Unterstütze uns mit einer [Spende](/support#spenden)! Spendenbescheinigung stellen wir natürlich gerne aus.
 
 | Kontoverbindung |                                   |
 |:----------------|----------------------------------:|
