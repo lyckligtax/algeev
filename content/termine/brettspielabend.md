@@ -4,33 +4,34 @@ date = 2024-08-04T21:52:49+02:00
 draft = true
 # expiryDate = 2024-08-04T21:52:49+02:00
 +++
-# Einladung Brettspielabend
 Moin,  
 wir möchten alle zu einem gemeinsamen digitalen Brettspielabend einladen.
 
-Dazu wollen wir euch die folgenden beiden Termine anbieten, um gemeinsam mit euch einen gemütlichen Abend verbringen zu können und mit Gleichgesinnten zu quatschen.
+An den kommenden beiden Terminen wollen wir mit euch einen gemütlichen Abend verbringen und mit Gleichgesinnten quatschen.
 
 **Termin 1:** Dienstag, 20.08.24, 20 Uhr  
 **Termin 2:** Dienstag, 27.08.24, 20 Uhr
 
-Beide Termine werden rein digital stattfinden und ihr benötigt dazu lediglich einen Web-Browser und ein Mikrofon (Kamera ist optional). Die Zugangsdaten werden wir nach Anmeldung per DM oder Mail (info@alge-hamburg.de) an euch herausgeben.
+Beide Termine werden rein digital stattfinden und ihr benötigt dazu lediglich einen Web-Browser und ein Mikrofon (Kamera ist optional).  
 
-Wir werden euch die folgenden 5 Spiele anbieten und zusammen mit euch entscheiden, welche davon wir am Abend spielen wollen. Erfahrungsgemäß wird es die Möglichkeit geben, mehrere Runden spielen zu können.
+Die Zugangsdaten werden wir nach Anmeldung per [Discord DM](/contact/#discord) oder Mail (info@alge-hamburg.de) an euch herausgeben.
+
+Wir werden euch die folgenden 5 Spiele anbieten und zusammen mit euch entscheiden, welche davon wir spielen wollen. Die Erfahrung hat gezeigt. dass wir mehrere Runden spielen können.
 
 ## Siedler von Catan
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Dieser Klassiker der Brettspiele versetzt uns in das Zeitalter der Entdeckungen. Im Wettlauf um die Vorherrschaft auf der Insel Catan gilt es geschickt mit Rohstoffen zu handeln, um Siedlungen und Städte zu bauen.
 
 ## Zug um Zug
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Eine abenteuerliche Zugfahrt um die Welt. Durch das Sammeln von Karten bereisen wir möglichst viele Städte, und sammeln so Siegpunkte.
 
 ## Mischwald
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+In diesem cleveren Kartenspiel schaffen wir einen ökologisch ausgewogenen Lebensraum, und versuchen verschiedene Bewohner in unseren Wald zu locken.
 
 ## Solarstorm
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Eine Sonneneruption hat den Energiekern unseres Raumschiffes beschädigt. Gemeinsam müssen wir das Schiff reparieren, bevor es auseinander fällt.
 
 ## Heat
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Im Cockpit eines Rennwagens der 60er-Jahre, versuchen wir als Erste\*r die Ziellinie zu überqueren, indem wir unsere Handkarten geschickt ausspielen.
 
 Viele Grüße
 Euer ALGE Team
