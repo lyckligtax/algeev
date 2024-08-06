@@ -1,8 +1,6 @@
 +++
 title = 'Brettspielabend'
 date = 2024-08-04T21:52:49+02:00
-draft = true
-# expiryDate = 2024-08-04T21:52:49+02:00
 +++
 Moin,  
 wir möchten alle zu einem gemeinsamen digitalen Brettspielabend einladen.

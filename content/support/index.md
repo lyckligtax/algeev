@@ -26,6 +26,12 @@ Was machen wir mit dem Geld?
 - Infektionsschutzkonzepte anbieten, z.B. Pluslife Geräte und Tests, Masken, Lüfter
 - Bürokratie bewältigen, z.B. Notarkosten, Vereinsverwaltung, Mail, Domain
 
+### betterplace.org
+Unterstütze uns ganz einfach über [betterplace.org](https://www.betterplace.org/de/projects/140795)
+{{< figure src="betterplace-qr-code.png" width=200 >}}
+
+### Überweisung
+Oder ganz klassisch per Banküberweisung  
 | Kontoverbindung |                                   |
 |:----------------|----------------------------------:|
 | **Empfänger**   |                         ALGE E.V. |
