@@ -3,3 +3,26 @@ figure > img + p:not(:empty) {
     color: var(--secondary);
     margin-bottom: calc(-0.5 * var(--gap));
 }
+
+:root {
+    --flamingo: #f2cdcd;
+    --peach: #fab387;
+    --teal: #94e2d5;
+    --lavender: #b4befe;
+}
+
+.dark #menu > li:nth-child(1) > a > span {
+    color: var(--flamingo);
+}
+
+.dark #menu > li:nth-child(2) > a > span {
+    color: var(--peach);
+}
+
+.dark #menu > li:nth-child(3) > a > span {
+    color: var(--teal);
+}
+
+.dark #menu > li:nth-child(4) > a > span {
+    color: var(--lavender);
+}
