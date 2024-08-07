@@ -12,23 +12,23 @@ An den kommenden beiden Terminen möchten wir mit euch einen gemütlichen Abend 
 
 Beide Termine finden rein digital statt und ihr benötigt dazu lediglich einen **Web-Browser** und ein **Mikrofon** (Kamera ist optional).  
 
-Wir freuen uns sowohl über absolute Brettspielanfänger\*innen als auch erfahrere Brettspielprofis. Die Spielregeln müsst ihr **nicht** kennen, wir werden sie vorab erklären und während des Spielens auf alle Fragen so gut es geht zu einzugehen.
+Wir freuen uns sowohl über absolute Brettspielanfänger\*innen als auch erfahrere Brettspielprofis. Die Spielregeln müsst ihr **nicht** kennen, wir werden sie vorab erklären und während des Spielens auf alle Fragen so gut es geht eingehen.
 
 Um ordentlich planen zu können bitten wir euch, euch zuvor per [Discord DM](/contact/#discord) oder [Mail](mailto://info@alge-hamburg.de) anzumelden. Die Zugangsdaten schicken wir euch dann rechtzeitig vor Spielbeginn.
 
 Diese 5 Spiele haben wir rausgesucht und zusammen mit euch entscheiden wir, welche davon wir spielen wollen. Die Spielrunden sind in der Regel so kurz, dass wir mehrere Runden oder Spiele spielen können.
 
 ## Siedler von Catan
-Dieser Klassiker der Brettspiele versetzt uns in das Zeitalter der Entdeckungen. Im Wettlauf um die Vorherrschaft auf der Insel Catan gilt es geschickt mit Rohstoffen zu handeln, um Siedlungen und Städte zu bauen.
+Dieser Klassiker der Brettspiele versetzt uns in das Zeitalter der Entdeckungen. Im Wettlauf um die Vorherrschaft auf der Insel Catan gilt es, geschickt mit Rohstoffen zu handeln, um Siedlungen und Städte zu bauen.
 
 ## Zug um Zug
 Eine abenteuerliche Zugfahrt um die Welt. Durch das Sammeln von Karten bereisen wir möglichst viele Städte, und sammeln so Siegpunkte.
 
 ## Mischwald
-In diesem cleveren Kartenspiel schaffen wir einen ökologisch ausgewogenen Lebensraum, und versuchen verschiedene Bewohner in unseren Wald zu locken.
+In diesem cleveren Kartenspiel schaffen wir einen ökologisch ausgewogenen Lebensraum und versuchen verschiedene Bewohner in unseren Wald zu locken.
 
 ## Solarstorm
-Eine Sonneneruption hat den Energiekern unseres Raumschiffes beschädigt. Gemeinsam müssen wir das Schiff reparieren, bevor es auseinander fällt.
+Eine Sonneneruption hat den Energiekern unseres Raumschiffes beschädigt. Gemeinsam müssen wir das Schiff reparieren, bevor es auseinanderfällt.
 
 ## Heat
 Im Cockpit eines Rennwagens der 60er-Jahre, versuchen wir als Erste\*r die Ziellinie zu überqueren, indem wir unsere Handkarten geschickt ausspielen.
