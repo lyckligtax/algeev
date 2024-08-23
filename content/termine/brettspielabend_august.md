@@ -1,5 +1,5 @@
 +++
-title = 'Brettspielabend'
+title = 'Brettspielabende August'
 date = 2024-08-04T21:52:49+02:00
 +++
 Moin,  
