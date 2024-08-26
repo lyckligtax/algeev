@@ -1,6 +1,6 @@
 +++
 title = 'Brettspielabende September'
-date = 2024-08-26T21:52:49+02:00
+date = 2024-08-26T00:00:00+02:00
 +++
 Moin,  
 wir möchten alle zu einem gemeinsamen digitalen Brettspielabend einladen.
