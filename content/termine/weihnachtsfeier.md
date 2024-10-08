@@ -7,6 +7,8 @@ image = "./covers/weihnachtsfeier.jpg"
 caption = "Symbolbild Weihnachtsfeier (KI-generiert)"
 relative = true
 +++
+> Auf Grund von Planungsunsicherheiten kann die Weihnachtsfeier nicht in diesem Umfang stattfinden. Wir arbeiten an einer Alternative :-)
+
 Moin,  
 der ALGE e.V. möchte dieses Jahr eine möglichst infektionssichere Weihnachtsfeier in Hamburg veranstalten. Viele möchten gerade in der Adventszeit mit anderen zusammenkommen und ein wenig Weihnachtsmarktstimmung erleben. Das wollen wir versuchen zu ermöglichen.
 
