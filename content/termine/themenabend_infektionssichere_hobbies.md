@@ -1,12 +1,10 @@
 +++
 title = 'Themenabend: infektionssichere Hobbies'
-date = 2024-08-22T00:00:00+02:00
+date = 2024-10-29T00:00:00+02:00
 +++
-> Dieser Termin musste krankheitsbedingt ausfallen und wird im November nachgeholt.
-
 Unser erster Themenabend! Hier möchten wir über ein vorher festgelegtes Thema reden und uns dazu austauschen.
 
-Der Themenabend wird am **Samstag, 28.09.24** digital stattfinden und hat eine Teilnahmegrenze von 15 Personen. Die Zugangsdaten werden wir nach Anmeldung per Mail (info@alge-hamburg.de) an euch herausgeben.
+Der Themenabend wird am **Samstag, 23.11.24** digital stattfinden und hat eine Teilnahmegrenze von 15 Personen. Die Zugangsdaten werden wir nach Anmeldung per [Discord DM](/contact/#discord) oder [Mail](mailto:info@alge-hamburg.de) an euch herausgeben.
 
 Dieses mal sprechen wir über **"infektionssichere Hobbies"**.  
 - Was habt ihr für euch entdeckt?  
