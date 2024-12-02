@@ -1,5 +1,5 @@
 +++
-title = 'Brettspielabende September'
+title = '🎲 Brettspielabende September'
 date = 2024-08-26T00:00:00+02:00
 +++
 Moin,  
