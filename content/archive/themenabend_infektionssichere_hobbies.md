@@ -1,6 +1,7 @@
 +++
 title = 'Themenabend: infektionssichere Hobbies'
-date = 2024-10-29T00:00:00+02:00
+date = 2024-11-23T20:00:00+02:00
+published = 2024-10-29T00:00:00+02:00
 +++
 Unser erster Themenabend! Hier möchten wir über ein vorher festgelegtes Thema reden und uns dazu austauschen.
 

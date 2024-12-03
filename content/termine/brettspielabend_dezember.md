@@ -1,6 +1,7 @@
 +++
 title = '☣️ Pandemic Abend im Dezember'
-date = 2024-12-02T00:00:00+02:00
+date = 2024-12-18T20:00:00+02:00
+published = 2024-12-02T00:00:00+02:00
 +++
 Moin,  
 es wird Zeit die Pandemie zu beenden. Gemeinsam werden wir im Dezember losziehen und dies, zumindest digital, vollbringen!  

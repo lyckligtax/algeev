@@ -1,6 +1,7 @@
 +++
 title = '🎲 Brettspielabende November'
-date = 2024-10-29T00:00:00+02:00
+date = 2024-11-12T20:00:00+02:00
+published = 2024-10-29T00:00:00+02:00
 +++
 Moin,  
 nachdem die Termine im Oktober auf Grund von Ausfällen im Orga-Team leider nicht stattfinden konnten möchten wir euch alle wieder zu einem gemeinsamen digitalen Brettspielabend einladen.
