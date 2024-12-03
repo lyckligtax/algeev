@@ -1,5 +1,5 @@
 +++
-title = '🍪🎄 Themenabend: gemeinsames Kekse backen'
+title = '🍪🎄 gemeinsames Kekse backen'
 date = 2024-12-02T00:00:00+02:00
 +++
 Als kleine Adventsfeier wollen wir gemeinsam mit euch und euren Liebsten (auch Kinder) Kekse backen.  
