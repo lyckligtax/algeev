@@ -30,6 +30,10 @@ menu:
       name: Termine
       url: /termine/
       weight: 10
+    - identifier: Archiv
+      name: Archiv
+      url: /archive/
+      weight: 12
     - identifier: HelpWanted
       name: Unterstützung
       url: /support

@@ -1,6 +1,7 @@
 +++
 title = '🍪🎄 gemeinsames Kekse backen'
-date = 2024-12-02T00:00:00+02:00
+date = 2024-12-15T14:00:00+02:00
+published = 2024-12-01T00:00:00+02:00
 +++
 Als kleine Adventsfeier wollen wir gemeinsam mit euch und euren Liebsten (auch Kinder) Kekse backen.  
 

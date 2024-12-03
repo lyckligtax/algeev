@@ -1,6 +1,6 @@
 +++
 title = '🎄🎅🎁 Präsenz-Weihnachtsfeier 2024'
-date = 2023-07-26T11:57:32+02:00
+published = 2023-07-26T00:00:00+02:00
 [cover]
 image = "./covers/weihnachtsfeier.jpg"
 caption = "Symbolbild Weihnachtsfeier (KI-generiert)"

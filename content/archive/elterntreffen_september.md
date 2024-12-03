@@ -1,6 +1,7 @@
 +++
 title = 'Elterntreffen September'
-date = 2024-08-22T00:00:00+02:00
+date = 2024-09-14T00:00:00+02:00
+published = 2024-08-22T00:00:00+02:00
 [cover]
 image = "./covers/elterntreff.jpg"
 caption = "Symbolbild Elterntreffen (KI-generiert)"
