@@ -25,8 +25,8 @@ Es handelt sich um den Einstiegskurs ins Top-Rope-Klettern:
 - 6 Personen: 70€ pro Person  
 
 ### Für Externe:  
-- 4 Personen: 113€ pro Person
-- 6 Personen: 86€ pro Person 
+- 4 Personen: 120€ pro Person
+- 6 Personen: 95€ pro Person 
 
 Normalerweise findet der Kurs an 2 Abenden à 3 Stunden statt. Wir sprechen noch mit den Trainerinnen, ob es sinnvoll machbar ist, dies auch an einem 6 Stunden Termin zu machen.
 
