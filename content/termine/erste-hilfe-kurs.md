@@ -13,4 +13,4 @@ Damit die praktische Umsetzung direkt geprobt werden kann, würde der Kurs in Pr
 
 Die Mund-zu-Mund-Beatmung ist nicht mehr zwingend Teil eines Erste-Hilfe-Kurses und somit auch mit Infektionsschutzmaske machbar.
 
-Wir werden allen Mitgliedern wieder einen vergünstigten Preis anbieten, dieser hängt jedoch von der Teilnehmerzahl ab, daher gebt uns bitte umgehend Bescheid, solltet ihr Interesse haben.
+Damit wir möglichst gute Konditionen bekommen, müssen wir mit den verschiedenen Organisationen sprechen. Das hängt jedoch immer von der Teilnehmerzahl ab, daher gebt uns bitte umgehend Bescheid, solltet ihr Interesse haben.
