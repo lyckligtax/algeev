@@ -33,4 +33,4 @@ Normalerweise findet der Kurs an 2 Abenden à 3 Stunden statt. Wir sprechen noch
 Einen genauen Termin können wir erst nennen, wenn genug potentielle Anmeldungen vorhanden sind, um diesen dann mit dem DAV und den Trainerinnen zu koordinieren.
 
 ## Anmeldung
-Bei Interesse mledet euch bitte bei uns per [Mail](mailto:info@alge-hamburg.de).
+Bei Interesse meldet euch bitte bei uns per [Mail](mailto:info@alge-hamburg.de).
