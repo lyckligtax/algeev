@@ -66,5 +66,9 @@ params:
   socialIcons:
     - name: "email"
       url: "mailto:info@alge-hamburg.de"
+    - name: "bluesky"
+      url: "https://bsky.app/profile/alge-ev-hamburg.bsky.social"
+    - name: "mastodon"
+      url: "https://norden.social/@alge_ev"
     - name: "whatsapp"
       url: "https://whatsapp.com/channel/0029VajhFRa6xCSJRBCNxm35"
