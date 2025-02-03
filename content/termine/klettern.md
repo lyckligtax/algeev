@@ -4,7 +4,7 @@ date = 2025-02-01T00:00:00+02:00
 weight = 5
 [cover]
 image = "./covers/klettern.jpg"
-caption = "Foto: Käthe und Bernd Limburg, www.limburg-bernd.de / Lizenz: Creative Commons BY-SA-3.0 de"
+caption = "Foto: Käthe und Bernd Limburg, www.limburg-bernd.de / [Creative Commons BY-SA-3.0 de](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"
 relative = true
 +++
 Viele Aktivitäten sind auch gut mit FFP2-Masken machbar, aber einige trauen sich nicht, diese alleine zu unternehmen. Gemeinsam als Gruppe wollen wir damit starten, uns öffentliche Räume zurückzuerobern.
