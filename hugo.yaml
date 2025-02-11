@@ -54,7 +54,7 @@ params:
     enabled: true
     title: "ALGE e.V."
     subtitle: "Ein Verein mit Augenmerk auf Teilhabe von Schattenfamilien und Infektionsschutz für alle"
-    imageUrl: "ALGE.png" # optional
+    imageUrl: "logo.svg" # optional
     imageTitle: "ALGE e.V. Logo" # optional
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size

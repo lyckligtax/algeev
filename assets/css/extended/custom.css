@@ -5,24 +5,39 @@ figure > img + p:not(:empty) {
 }
 
 :root {
-    --flamingo: #f2cdcd;
-    --peach: #fab387;
-    --teal: #94e2d5;
-    --lavender: #b4befe;
+    --flamingo: #e64553;
+    --peach: #df8e1d;
+    --teal: #179299;
+    --lavender: #8839ef;
+    --bluesky: #0a7aff;
+    --mastodon: #6364ff;
+    --whatsapp: #25d366;
 }
 
-.dark #menu > li:nth-child(1) > a > span {
-    color: var(--flamingo);
-}
-
-.dark #menu > li:nth-child(2) > a > span {
+#menu > li:nth-child(1) > a > span {
     color: var(--peach);
 }
 
-.dark #menu > li:nth-child(3) > a > span {
+#menu > li:nth-child(2) > a > span {
+    color: var(--flamingo);
+}
+
+#menu > li:nth-child(3) > a > span {
     color: var(--teal);
 }
 
-.dark #menu > li:nth-child(4) > a > span {
+#menu > li:nth-child(4) > a > span {
     color: var(--lavender);
+}
+
+.social-icons > a[title="Bluesky"] {
+    color: var(--bluesky)
+}
+
+.social-icons > a[title="Mastodon"] {
+    color: var(--mastodon)
+}
+
+.social-icons > a[title="Whatsapp"] {
+    color: var(--whatsapp)
 }
