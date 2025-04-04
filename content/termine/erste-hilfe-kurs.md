@@ -1,7 +1,6 @@
 +++
 title = '🩹 Erste-Hilfe-Kurs'
-date = 2025-02-01T00:00:00+02:00
-weight = 5
+date = 2025-04-01T00:00:00+02:00
 [cover]
 image = "./covers/erste-hilfe-kurs.jpg"
 caption = "[DRK Retttungsdienst Bodensee-Oberschwaben](https://commons.wikimedia.org/wiki/File:DRK_Retttungsdienst_Bodensee-Oberschwaben.jpg) / [Creative Commons BY-SA-3.0 de](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"
