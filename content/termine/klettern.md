@@ -1,7 +1,6 @@
 +++
 title = '🧗‍♂️Kletterkurs'
-date = 2025-02-01T00:00:00+02:00
-weight = 5
+date = 2025-04-01T00:00:00+02:00
 [cover]
 image = "./covers/klettern.jpg"
 caption = "Foto: Käthe und Bernd Limburg, www.limburg-bernd.de / [Creative Commons BY-SA-3.0 de](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"
