@@ -1,6 +1,7 @@
 +++
 title = '🥐 Hamburgs bestes Franzbrötchen'
-date = 2025-05-10T13:00:00+02:00
+date = 2025-05-17T13:00:00+02:00
+published = 2025-05-01T00:00:00+02:00
 weight = 5
 [cover]
 image = "./covers/franzbroetchen.png"
@@ -9,7 +10,7 @@ relative = true
 +++
 Zusammen mit euch suchen wir das beste Franzbrötchen Hamburgs!
 
-Dazu brauchen wir eure Hilfe! Nennt uns die besten Locations für Franzbrötchen und genießt sie mit uns zusammen. Im Blindtest kühren wir das beste Franzbrötchen mit einem Preis.
+Dazu brauchen wir eure Hilfe! Nennt uns die besten Locations für Franzbrötchen und genießt sie mit uns zusammen. Im Blindtest küren wir das beste Franzbrötchen mit einem Preis.
 
 ### Termin
 Samstag, 17.05.2025
@@ -24,4 +25,4 @@ Der Verein stellt Getränke zur Verfügung.
 Während des Events gibt es eine Maskenpflicht für alle Teilnehmenden!  
 Zum Verköstigen der Franzbrötchen oder zum trinken kann die Maske, unter Berücksichtigung der anderen Teilnehmenden, kurz abgenommen werden.
 
-Solltet ihr Interesse an der Teilnahme haben, meldet euch bitte bei uns per [Mail](mailto:info@alge-hamburg.de), damit wir euch die Location nennen können.
+Solltet ihr Interesse an der Teilnahme haben, meldet euch bitte bei uns per [Mail](mailto:info@alge-hamburg.de?subject=Anmeldung%20Franzbrotchen), damit wir euch die Location nennen können.
