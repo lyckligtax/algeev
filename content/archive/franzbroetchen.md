@@ -2,7 +2,6 @@
 title = '🥐 Hamburgs bestes Franzbrötchen'
 date = 2025-05-17T13:00:00+02:00
 published = 2025-05-01T00:00:00+02:00
-weight = 5
 [cover]
 image = "./covers/franzbroetchen.png"
 caption = "[Franzbrötchen](https://commons.m.wikimedia.org/wiki/File:Franzbr%C3%B6tchen.jpg) / [Creative Commons BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"
