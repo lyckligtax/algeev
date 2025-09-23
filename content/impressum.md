@@ -9,7 +9,7 @@ Registernummer: VR 25379
 
 ## Vorstand
 Tobias Subklewe  
-Lucie Däwers
+Hanna Rosenthal
 
 ## Kontakt
 ALGE e.V. c/o Tobias Subklewe  
