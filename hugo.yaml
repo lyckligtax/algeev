@@ -4,7 +4,10 @@ title: ALGE e.V.
 pagination:
   pagerSize: 10
 theme: PaperMod
-
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 outputs:
   home:
     - html

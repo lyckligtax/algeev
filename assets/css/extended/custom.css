@@ -4,10 +4,6 @@ figure > img + p:not(:empty) {
     margin-bottom: calc(-0.5 * var(--gap));
 }
 
-body {
-    font-family: 'Roboto Thin', sans-serif;
-}
-
 :root {
     --flamingo: #e64553;
     --peach: #df8e1d;
@@ -48,12 +44,33 @@ body {
 
 .dark {
     --theme: #11111b;
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
+    --tertiary: --theme;
+    --entry: --theme;
     --content: #eff1f5;
-    --code-block-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
+}
+
+article.post-single strong {
+        color: var(--peach);
+}
+article.post-single a {
+        color: var(--flamingo);
+}
+article.post-single h1 {
+        color: var(--peach);
+}
+article.post-single h2 {
+        color: var(--lavender);
+}
+article.post-single h3 {
+        color: var(--teal);
+}
+
+article.post-entry {
+    border: none;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+article.post-single .breadcrumbs {
+    margin-bottom: 16px;
 }

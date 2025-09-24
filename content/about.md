@@ -1,13 +1,13 @@
 +++
 ShowBreadCrumbs = false
 [cover]
-image = "./covers/about.jpg"
+image = "./covers/about_short.jpg"
 caption = "Symbolbild (KI-generiert)"
 +++
 ## Verein
 Wir sind ein gemeinnütziger Verein für die **Förderung des öffentlichen Gesundheitswesens und der öffentlichen Gesundheitspflege**.
 
-Wir wollen den Menschen das Thema **Infektionsschutz** und **luftübertragbare Infektionskrankheiten** näher bringen, um:
+Wir wollen den Menschen die Themen **Infektionsschutz** und **luftübertragbare Infektionskrankheiten** näher bringen, um:
 - das Thema in der Öffentlichkeit wieder präsenter zu machen
 - zu zeigen wie man sich einfach und effektiv schützen kann
 - zu zeigen wie man Infektionsschutz in den Alltag integrieren kann
