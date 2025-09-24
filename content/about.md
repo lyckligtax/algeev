@@ -22,10 +22,10 @@ Um diese Themen voran zu treiben haben wir viele Ideen wie zum Beispiel:
 
 Zusätzlich gibt es (regelmäßige) öffentliche und vereinsinterne Aktivitäten wie:
 - Brettspielabende
-- Klänabende
+- Klönabende
 - kreativ Cafès
 
-sowie besondere Veranstaltungen:
+Sowie besondere präsenz Veranstaltungen mit besonderem Augenmerk auf Infektionsschutz (z.B. Testen, Masken, Luftfilter etc.)
 - Kinobesuch
 - Wandergruppe
 - Erste-Hilfe Kurs

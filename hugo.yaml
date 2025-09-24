@@ -57,6 +57,7 @@ params:
   profileMode:
     enabled: true
     title: "ALGE e.V."
+    subtitle: "Keine Lust, ständig krank zu sein?"
     imageUrl: "logo.svg" # optional
     imageTitle: "ALGE e.V. Logo" # optional
     imageWidth: 100 # custom size

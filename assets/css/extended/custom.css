@@ -50,19 +50,10 @@ figure > img + p:not(:empty) {
 }
 
 article.post-single strong {
-        color: var(--peach);
+    color: var(--peach);
 }
 article.post-single a {
-        color: var(--flamingo);
-}
-article.post-single h1 {
-        color: var(--peach);
-}
-article.post-single h2 {
-        color: var(--lavender);
-}
-article.post-single h3 {
-        color: var(--teal);
+    color: var(--flamingo);
 }
 
 article.post-entry {
