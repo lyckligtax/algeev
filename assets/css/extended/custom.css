@@ -49,10 +49,10 @@ figure > img + p:not(:empty) {
     --content: #eff1f5;
 }
 
-article.post-single strong {
+.post-content strong {
     color: var(--peach);
 }
-article.post-single a {
+.post-content a {
     color: var(--flamingo);
 }
 
