@@ -4,7 +4,10 @@ title: ALGE e.V.
 pagination:
   pagerSize: 10
 theme: PaperMod
-
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 outputs:
   home:
     - html
@@ -54,11 +57,11 @@ params:
   profileMode:
     enabled: true
     title: "ALGE e.V."
-    subtitle: "Ein Verein mit Augenmerk auf Teilhabe von Schattenfamilien und Infektionsschutz für alle"
+    subtitle: "Keine Lust, ständig krank zu sein?"
     imageUrl: "logo.svg" # optional
     imageTitle: "ALGE e.V. Logo" # optional
-    imageWidth: 200 # custom size
-    imageHeight: 200 # custom size
+    imageWidth: 100 # custom size
+    imageHeight: 100 # custom size
     buttons:
       - name: Termine
         url: "/termine"

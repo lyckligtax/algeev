@@ -41,3 +41,27 @@ figure > img + p:not(:empty) {
 .social-icons > a[title="Whatsapp"] {
     color: var(--whatsapp)
 }
+
+.dark {
+    --theme: #11111b;
+    --tertiary: --theme;
+    --entry: --theme;
+    --content: #eff1f5;
+}
+
+.post-content strong {
+    color: var(--peach);
+}
+.post-content a {
+    color: var(--flamingo);
+}
+
+article.post-entry {
+    border: none;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+article.post-single .breadcrumbs {
+    margin-bottom: 16px;
+}
