@@ -6,12 +6,13 @@ figure > img + p:not(:empty) {
 
 :root {
     --flamingo: #e64553;
-    --peach: #df8e1d;
+    --peach: #F4BB46;
     --teal: #179299;
     --lavender: #8839ef;
     --bluesky: #0a7aff;
     --mastodon: #6364ff;
     --whatsapp: #25d366;
+    --discord: #7289da;
 }
 
 #menu > li:nth-child(1) > a > span {
@@ -42,11 +43,19 @@ figure > img + p:not(:empty) {
     color: var(--whatsapp)
 }
 
+.social-icons > a[title="Discord"] {
+    color: var(--discord)
+}
+
 .dark {
-    --theme: #11111b;
-    --tertiary: --theme;
-    --entry: --theme;
-    --content: #eff1f5;
+    --theme: #072D60;
+    --dark-blue: #002141;
+    --blue: #072D60;
+    --tertiary: var(--theme);
+    --entry: var(--theme);
+    --content: #F8F7F2;
+    --primary: var(--content);
+    --secondary: var(--content);
 }
 
 .post-content strong {
@@ -58,10 +67,36 @@ figure > img + p:not(:empty) {
 
 article.post-entry {
     border: none;
-    padding-left: 0;
-    padding-right: 0;
+    background: var(--dark-blue);
+
+    ba
+
+    & > * {
+        color: var(--content);
+
+    }
 }
 
 article.post-single .breadcrumbs {
     margin-bottom: 16px;
+}
+
+
+html {
+    overflow-y: auto;
+    scrollbar-gutter: auto;
+}
+
+.header {
+    background-color: var(--dark-blue);
+}
+
+.profile_inner {
+    & > h1 {
+        display: none;
+    }
+
+    & > img {
+        margin-bottom: -50px;
+    }
 }

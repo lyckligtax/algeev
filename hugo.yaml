@@ -47,6 +47,8 @@ menu:
       url: /contact
       weight: 20
 params:
+  disableThemeToggle: true
+  defaultTheme: dark
   ShowRssButtonInSectionTermList: true
   env: production
   ShowBreadCrumbs: true
@@ -56,23 +58,20 @@ params:
     text: '[Impressum](/impressum) · [Datenschutzerklärung](/privacy)'
   profileMode:
     enabled: true
-    title: "ALGE e.V."
-    subtitle: "Keine Lust, ständig krank zu sein?"
-    imageUrl: "logo.svg" # optional
+    #title: "ALGE e.V."
+    #subtitle: "Authentisch Leben, Gesundheit Erhalten"
+    imageUrl: "logo.png" # optional
     imageTitle: "ALGE e.V. Logo" # optional
-    imageWidth: 100 # custom size
-    imageHeight: 100 # custom size
-    buttons:
-      - name: Termine
-        url: "/termine"
-      - name: Unterstützung
-        url: "/support"
+    imageWidth: 400 # custom size
+    imageHeight: 400 # custom size
   socialIcons:
     - name: "email"
       url: "mailto:info@alge-hamburg.de"
+    - name: "discord"
+      url: "https://discord.gg/psfvupc9"
     - name: "bluesky"
       url: "https://bsky.app/profile/alge-ev-hamburg.bsky.social"
     - name: "mastodon"
       url: "https://norden.social/@alge_ev"
-    - name: "whatsapp"
-      url: "https://whatsapp.com/channel/0029VajhFRa6xCSJRBCNxm35"
+    #- name: "whatsapp"
+    #  url: "https://whatsapp.com/channel/0029VajhFRa6xCSJRBCNxm35"
