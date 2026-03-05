@@ -30,14 +30,14 @@ menu:
       name: Über uns
       url: /about
       weight: 5
+    - identifier: CoC
+      name: Code Of Conduct
+      url: /coc
+      weight: 8
     - identifier: Termine
       name: Termine
       url: /termine/
       weight: 10
-    - identifier: Archiv
-      name: Archiv
-      url: /archive/
-      weight: 12
     - identifier: HelpWanted
       name: Unterstützung
       url: /support
